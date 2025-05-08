@@ -1,4 +1,4 @@
-# calculator-HTML-CSS-JS-
+# calculator-HTML-CSS-JS
 
 <br>
 This is a calculator created using HTML CSS &amp; Javascript
