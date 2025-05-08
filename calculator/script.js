@@ -1,3 +1,6 @@
+/* Author - Ahil Tanvir
+ */
+
 let string = "";
 const input = document.querySelector('.display input');
 const buttons = document.querySelectorAll('.button');
